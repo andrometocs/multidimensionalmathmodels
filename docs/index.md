@@ -9,6 +9,9 @@ Fractal Math formula youtube playlist --> https://www.youtube.com/playlist?list=
 
 Latest innovative formula was cubic series multidimensional Arithmetic Progression --> https://www.youtube.com/watch?v=eKIhediJRmw&list=PLSpIWbHzPl2egGs9luewptFYP3cBz8mrs&index=10
 
+1. [Important about Multidimensional A.P and G.P formula's Algorithm](https://kumaran198726.blogspot.com/2012/12/algorithms-and-formula-for-n.html)
+2. [Thrid dimensional A.P and G.P formula details](https://kumaran198726.blogspot.com/2012/12/formulas-for-3-dimensional-ap-and-gp.html)
+
 Upcoming updates : Will provide Microsoft Sway with high Quality presentations for quicker views 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
