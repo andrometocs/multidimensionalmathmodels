@@ -7,6 +7,8 @@ Multidimensional Math formulas Youtube playlist videos --> https://www.youtube.c
 
 Fractal Math formula youtube playlist --> https://www.youtube.com/playlist?list=PLSpIWbHzPl2egGs9luewptFYP3cBz8mrs
 
+Latest innovative formula was cubic series multidimensional Arithmetic Progression --> https://www.youtube.com/watch?v=eKIhediJRmw&list=PLSpIWbHzPl2egGs9luewptFYP3cBz8mrs&index=10
+
 Follow my company website : https://andrometocs.com/
 My company's Business website : https://spacetech.business/
 
