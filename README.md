@@ -9,7 +9,7 @@ Fractal Math formula youtube playlist --> https://www.youtube.com/playlist?list=
 
 Latest innovative formula was cubic series multidimensional Arithmetic Progression --> https://www.youtube.com/watch?v=eKIhediJRmw&list=PLSpIWbHzPl2egGs9luewptFYP3cBz8mrs&index=10
 
-Upcoming updates : Will provide Microsoft Sway with high QUality presentations for quicker views 
+Upcoming updates : Will provide Microsoft Sway with high Quality presentations for quicker views 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
