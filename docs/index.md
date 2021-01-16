@@ -12,6 +12,6 @@ Latest innovative formula was cubic series multidimensional Arithmetic Progressi
 Upcoming updates : Will provide Microsoft Sway with high Quality presentations for quicker views 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
-
-Link[Follow my company website : Andrometocs]url(https://andrometocs.com/)
-Link[My company's Business website : Spacetech business]url(https://spacetech.business/)
+[Github page for this link](https://andrometocs.github.io/multidimensionalmathmodels/)
+[Follow my company website : Andrometocs](https://andrometocs.com/)
+[My company's Business website : Spacetech business](https://spacetech.business/)
